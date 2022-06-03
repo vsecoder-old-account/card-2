@@ -4,11 +4,11 @@ $(function(){
   $('.text').typed({
     strings: [
       "<span style='color: #56e587'>$</span> whoami <br /> ^1000" + 
-      "~ ... <br /> ^1000" +
+      "~ lite.. <br /> ^1000" +
       "<span style='color: #56e587'>$</span> uname -a <br /> ^1000" +
-      "~ Is ..., know ... <br /> ^1000" +
+      "~ Is lite.., know python <br /> ^1000" +
       "<span style='color: #56e587'>$</span> sudo lshw <br /> ^1000" +
-      "~ Telegram: <a href='#'>...</a> <br /> ^1000" +
+      "~ Telegram: <a href='https://t.me/gmdskala'>lite..</a> <br /> ^1000" +
       "<span style='color: #56e587'>$</span> _"
     ],
     typeSpeed: 1,
